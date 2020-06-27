@@ -1,6 +1,6 @@
 # chat
 
-A new Flutter project.
+With ❤ Flutter
 
 ## Screenshots
 <img src="flutter_02.png" height=420 width=250/><img src="flutter_01.png" height=420 width=250/>
