@@ -2,6 +2,10 @@
 
 With ❤ Flutter
 
+## TODO
+1. Implement search feature
+2. Working of add button
+
 ## Screenshots
 <img src="flutter_02.png" height=420 width=250/><img src="flutter_01.png" height=420 width=250/>
 
